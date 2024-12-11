@@ -24,17 +24,21 @@ Provides insights into the dataset through visualizations, including heatmaps fo
 Assesses the model’s performance using metrics like precision, recall, and sparsity.
 
 **Limitations**
+
 **Sparsity:**
+
 Collaborative filtering suffered from 
 sparse user-course interaction data, reducing 
 recommendation accuracy for users with limited 
 history. 
 
 **Scalability:**
+
 The computational cost of KNN increased with larger datasets, indicating a need 
 for optimization in large-scale implementations
 
 **Future Work**:
+
 This project provides a strong 
 foundation for developing an effective course 
 recommendation system using content-based and 
@@ -45,6 +49,7 @@ focus of future work will be to explore hybrid
 approaches 
 
 **Conclusion:**
+
 This project successfully implemented a 
 course recommendation system using 
 content-based filtering and 
