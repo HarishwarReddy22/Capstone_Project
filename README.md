@@ -1,6 +1,6 @@
 **COURSE RECOMMENDATION SYSTEM**
 
-Project Overview
+**Project Overview**
 
 The Course Recommendation System is designed to suggest relevant courses to users based on their interests and behaviors.
 The system employs two primary approaches: content-based filtering and collaborative filtering using K-Nearest Neighbors (KNN). This project is ideal for educational platforms seeking to enhance user experience by providing personalized course recommendations.
